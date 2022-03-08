@@ -1,0 +1,12 @@
+[ 
+    {
+        "id":1,
+        "name":"Venkat",
+        "city":"Bangalore"
+    },
+    {
+        "id":2,
+        "name":"Pravallika",
+        "city":"Bangalore"
+    }
+]
