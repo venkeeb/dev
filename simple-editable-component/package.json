@@ -1,0 +1,31 @@
+{
+    "name": "simple-editable-component",
+    "version": "1.0.1",
+    "description": "editable table component using mui",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+      "@material-ui/core": "3.9.3",
+      "classnames": "2.2.6",
+      "mui-editable-table": "0.3.3",
+      "mui-editable-table-component": "1.0.10",
+      "react": "16.8.6",
+      "react-dom": "16.8.6",
+      "react-scripts": "3.0.1"
+    },
+    "devDependencies": {
+      "typescript": "3.3.3"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
